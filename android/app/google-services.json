@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283392183769",
+    "project_id": "messenggerx",
+    "storage_bucket": "messenggerx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283392183769:android:7b1739b8e22778fe65ddc8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283392183769-fmapia46acq1niqnmg8hkm5noab2vi2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2dHwtE6tsetYAxTNwxDV4Cx1CbhvmmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283392183769-fmapia46acq1niqnmg8hkm5noab2vi2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
